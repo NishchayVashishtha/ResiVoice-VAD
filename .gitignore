@@ -1,0 +1,3 @@
+real_voice_dataset/ 
+__pycache__/ 
+*.tar.gz 
